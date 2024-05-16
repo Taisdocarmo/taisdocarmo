@@ -1,5 +1,7 @@
 meu nome e tais
 
+Sou aluna do professor roberto
+
 estou estudando no [alura](https:https://www.alura.com.br)
 Eutou me desenvolvendo na linguagem javaScript
 utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvido
